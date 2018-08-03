@@ -8,7 +8,27 @@ span {
 }
 
 .greeting {
-  margin-bottom: 12%;
+  margin-bottom: 8%;
   margin-top: 3%;
   padding: 2%;
+}
+
+ol {
+  padding-left: 10px;
+}
+
+ul {
+  padding: 5%;
+}
+
+li {
+  padding-left: 10px;
+}
+
+.col-md-3 {
+  outline: 5px solid white;
+  padding: 15px;
+  height: 200px;
+  background-color: #edf7b7;
+  border-radius: 25px;
 }
