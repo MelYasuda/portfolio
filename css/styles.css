@@ -1,0 +1,14 @@
+span {
+  font-weight: bold;
+}
+
+#photo {
+  float:left;
+  margin-right: 20px;
+}
+
+.greeting {
+  margin-bottom: 12%;
+  margin-top: 3%;
+  padding: 2%;
+}
