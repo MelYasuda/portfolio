@@ -26,9 +26,13 @@ li {
 }
 
 .col-md-3 {
-  outline: 5px solid white;
+  outline: 3px solid white;
   padding: 15px;
   height: 200px;
   background-color: #edf7b7;
   border-radius: 25px;
+}
+
+.row h3 {
+  font-family: courier;
 }
