@@ -34,9 +34,9 @@ li {
 
 .col-md-3 {
   outline: 3px solid white;
-  padding: 15px;
-  height: 200px;
-  background-color: #edf7b7;
+  padding: 25px;
+  height: 250px;
+  background-color: #c5ead1;
   border-radius: 25px;
 }
 
@@ -46,4 +46,12 @@ li {
 
 .container {
   margin-bottom:
+}
+
+.panel-heading {
+  background-color: #c5ead1;
+}
+
+.panel-body {
+  font-size: 17px;
 }
